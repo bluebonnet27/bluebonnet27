@@ -1,5 +1,5 @@
 # 你好！ 👋
-## 我的个人网站在 [blog.bluebonnet27.xyz](https://bluebonnet27.github.io/)，欢迎来看看。
+## 我的个人网站在 [链接](https://bluebonnet27.github.io/)，欢迎来看看。
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bluebonnet27&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
